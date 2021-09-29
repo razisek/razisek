@@ -1,13 +1,9 @@
 ## Hey What’s up, I'm Rachma Azis 👋
 
 ### 👤 About Me
-* 🤷‍♂️ 18 y.o
+* 🤷‍♂️ 19 y.o
 * 🏠 Live at Magelang, Jawa Tengah
 * 🎓 Student
-
-### 📚 Languages
-* PHP (intermediate)
-* Node.js (beginner)
 
 ### 📬 Let's connect!
 * [**Linkedin**](https://www.linkedin.com/in/r-azis/)
@@ -16,8 +12,8 @@
 * [**Email**](mailto:azisrachma321@gmail.com)
 
 ### 📊 Github Stats
-![razisek's github stats](https://github-readme-stats.vercel.app/api?username=razisek&theme=buefy&show_icons=true)
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razisek&layout=buefy&hide_border=true"/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=razisek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Razisek's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ### 👀 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
