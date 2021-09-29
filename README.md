@@ -15,8 +15,9 @@
 * [**Telegram**](https://t.me/azisek)
 * [**Email**](mailto:azisrachma321@gmail.com)
 
-
-![razisek's github stats](https://github-readme-stats.vercel.app/api?username=razisek&title_color=3694ff&text_color=3694ff&show_icons=true&icon_color=000)
+### 📊 Github Stats
+![razisek's github stats](https://github-readme-stats.vercel.app/api?username=razisek&theme=buefy&show_icons=true)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razisek&layout=buefy&hide_border=true"/>
 
 ### 👀 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
